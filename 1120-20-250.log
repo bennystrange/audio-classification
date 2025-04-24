@@ -1,0 +1,15 @@
+Hyperparameters: 1120 training samples, 20 sample features, step size 250
+Reducing from 1692 to 1442 features
+Validation Accuracy: 0.6321428571428571
+Reducing from 1442 to 1192 features
+Validation Accuracy: 0.6321428571428571
+Reducing from 1192 to 942 features
+Validation Accuracy: 0.6357142857142857
+Reducing from 942 to 692 features
+Validation Accuracy: 0.65
+Reducing from 692 to 442 features
+Validation Accuracy: 0.6357142857142857
+Reducing from 442 to 192 features
+Validation Accuracy: 0.6428571428571429
+Reducing from 192 to 20 features
+Validation Accuracy: 0.5892857142857143
