@@ -1,0 +1,139 @@
+Hyperparameters: 2779 training samples, 20 sample features, step size 10, first step 1000
+Reducing from 1692 to 692 features
+Validation Accuracy: 0.7309352517985611
+Reducing from 692 to 682 features
+Validation Accuracy: 0.7280575539568346
+Reducing from 682 to 672 features
+Validation Accuracy: 0.7294964028776978
+Reducing from 672 to 662 features
+Validation Accuracy: 0.7294964028776978
+Reducing from 662 to 652 features
+Validation Accuracy: 0.7266187050359713
+Reducing from 652 to 642 features
+Validation Accuracy: 0.7251798561151079
+Reducing from 642 to 632 features
+Validation Accuracy: 0.7266187050359713
+Reducing from 632 to 622 features
+Validation Accuracy: 0.7251798561151079
+Reducing from 622 to 612 features
+Validation Accuracy: 0.7266187050359713
+Reducing from 612 to 602 features
+Validation Accuracy: 0.7266187050359713
+Reducing from 602 to 592 features
+Validation Accuracy: 0.7280575539568346
+Reducing from 592 to 582 features
+Validation Accuracy: 0.7237410071942446
+Reducing from 582 to 572 features
+Validation Accuracy: 0.7237410071942446
+Reducing from 572 to 562 features
+Validation Accuracy: 0.7294964028776978
+Reducing from 562 to 552 features
+Validation Accuracy: 0.7266187050359713
+Reducing from 552 to 542 features
+Validation Accuracy: 0.7266187050359713
+Reducing from 542 to 532 features
+Validation Accuracy: 0.7280575539568346
+Reducing from 532 to 522 features
+Validation Accuracy: 0.7266187050359713
+Reducing from 522 to 512 features
+Validation Accuracy: 0.7266187050359713
+Reducing from 512 to 502 features
+Validation Accuracy: 0.7266187050359713
+Reducing from 502 to 492 features
+Validation Accuracy: 0.7266187050359713
+Reducing from 492 to 482 features
+Validation Accuracy: 0.7237410071942446
+Reducing from 482 to 472 features
+Validation Accuracy: 0.7223021582733813
+Reducing from 472 to 462 features
+Validation Accuracy: 0.7194244604316546
+Reducing from 462 to 452 features
+Validation Accuracy: 0.7194244604316546
+Reducing from 452 to 442 features
+Validation Accuracy: 0.7165467625899281
+Reducing from 442 to 432 features
+Validation Accuracy: 0.7179856115107913
+Reducing from 432 to 422 features
+Validation Accuracy: 0.7223021582733813
+Reducing from 422 to 412 features
+Validation Accuracy: 0.7179856115107913
+Reducing from 412 to 402 features
+Validation Accuracy: 0.7179856115107913
+Reducing from 402 to 392 features
+Validation Accuracy: 0.7223021582733813
+Reducing from 392 to 382 features
+Validation Accuracy: 0.7179856115107913
+Reducing from 382 to 372 features
+Validation Accuracy: 0.7151079136690648
+Reducing from 372 to 362 features
+Validation Accuracy: 0.7122302158273381
+Reducing from 362 to 352 features
+Validation Accuracy: 0.7151079136690648
+Reducing from 352 to 342 features
+Validation Accuracy: 0.7122302158273381
+Reducing from 342 to 332 features
+Validation Accuracy: 0.7223021582733813
+Reducing from 332 to 322 features
+Validation Accuracy: 0.720863309352518
+Reducing from 322 to 312 features
+Validation Accuracy: 0.7165467625899281
+Reducing from 312 to 302 features
+Validation Accuracy: 0.7165467625899281
+Reducing from 302 to 292 features
+Validation Accuracy: 0.7136690647482015
+Reducing from 292 to 282 features
+Validation Accuracy: 0.7223021582733813
+Reducing from 282 to 272 features
+Validation Accuracy: 0.7223021582733813
+Reducing from 272 to 262 features
+Validation Accuracy: 0.7223021582733813
+Reducing from 262 to 252 features
+Validation Accuracy: 0.7223021582733813
+Reducing from 252 to 242 features
+Validation Accuracy: 0.7165467625899281
+Reducing from 242 to 232 features
+Validation Accuracy: 0.7194244604316546
+Reducing from 232 to 222 features
+Validation Accuracy: 0.720863309352518
+Reducing from 222 to 212 features
+Validation Accuracy: 0.7093525179856115
+Reducing from 212 to 202 features
+Validation Accuracy: 0.7179856115107913
+Reducing from 202 to 192 features
+Validation Accuracy: 0.7107913669064748
+Reducing from 192 to 182 features
+Validation Accuracy: 0.7179856115107913
+Reducing from 182 to 172 features
+Validation Accuracy: 0.7194244604316546
+Reducing from 172 to 162 features
+Validation Accuracy: 0.7179856115107913
+Reducing from 162 to 152 features
+Validation Accuracy: 0.7179856115107913
+Reducing from 152 to 142 features
+Validation Accuracy: 0.7136690647482015
+Reducing from 142 to 132 features
+Validation Accuracy: 0.7122302158273381
+Reducing from 132 to 122 features
+Validation Accuracy: 0.720863309352518
+Reducing from 122 to 112 features
+Validation Accuracy: 0.7093525179856115
+Reducing from 112 to 102 features
+Validation Accuracy: 0.7107913669064748
+Reducing from 102 to 92 features
+Validation Accuracy: 0.7194244604316546
+Reducing from 92 to 82 features
+Validation Accuracy: 0.7194244604316546
+Reducing from 82 to 72 features
+Validation Accuracy: 0.7223021582733813
+Reducing from 72 to 62 features
+Validation Accuracy: 0.7064748201438849
+Reducing from 62 to 52 features
+Validation Accuracy: 0.7107913669064748
+Reducing from 52 to 42 features
+Validation Accuracy: 0.6805755395683454
+Reducing from 42 to 32 features
+Validation Accuracy: 0.6489208633093525
+Reducing from 32 to 22 features
+Validation Accuracy: 0.641726618705036
+Reducing from 22 to 20 features
+Validation Accuracy: 0.6460431654676259

@@ -1,0 +1,28 @@
+Hyperparameters: 2779 training samples, 480 sample features, step size 10, first step 1100, tolerance 0.01, z-score 7
+Removing outliers (3.17% of training samples)
+Reducing from 1692 to 592 features
+Validation Accuracy: 0.7223021582733813
+Reducing from 592 to 582 features
+Validation Accuracy: 0.7251798561151079
+Reducing from 582 to 572 features
+Validation Accuracy: 0.7294964028776978
+Reducing from 572 to 562 features
+Validation Accuracy: 0.7294964028776978
+Reducing from 562 to 552 features
+Validation Accuracy: 0.7294964028776978
+Reducing from 552 to 542 features
+Validation Accuracy: 0.7309352517985611
+Reducing from 542 to 532 features
+Validation Accuracy: 0.7294964028776978
+Reducing from 532 to 522 features
+Validation Accuracy: 0.7323741007194244
+Reducing from 522 to 512 features
+Validation Accuracy: 0.7280575539568346
+Reducing from 512 to 502 features
+Validation Accuracy: 0.7323741007194244
+Reducing from 502 to 492 features
+Validation Accuracy: 0.7251798561151079
+Reducing from 492 to 482 features
+Validation Accuracy: 0.7251798561151079
+Reducing from 482 to 480 features
+Validation Accuracy: 0.7266187050359713
